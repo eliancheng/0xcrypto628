@@ -9,7 +9,7 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Vue" />
       <br>Vue
     </td>
     <td align="center" width="90">
